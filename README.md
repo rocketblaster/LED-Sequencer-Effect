@@ -1,6 +1,6 @@
 # Project Title
 
-{What is this and why you made it}
+Description
 
 ![3D PCB Image](./path/to/image.png)
 
@@ -8,7 +8,7 @@
 
 ## Simulation
 
-{Yap about how it works}
+How it works
 
 ![Falstad Simulation Gif](./path/to/demo.gif)
 
@@ -25,4 +25,4 @@
 
 ---
 
-Add credits here or whatever you want :D
+Extra
