@@ -1,6 +1,6 @@
 # Project Title
 
-Description
+This is an LED sequencer circuit made with 3x LEDs, transistors and resistors of different levels.
 
 ![3D PCB Image](./path/to/image.png)
 
@@ -8,7 +8,7 @@ Description
 
 ## Simulation
 
-How it works
+The circuit works as an astable multivibrator, meaning after a specific duration the led goes into an active and non active state temporarily.
 
 ![Falstad Simulation Gif](./path/to/demo.gif)
 
