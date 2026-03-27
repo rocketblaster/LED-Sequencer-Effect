@@ -4,7 +4,7 @@ This is a simple LED circuit using Transitor-Transistor-Logic circuit and throug
 
 ## March 27, 2026 - Researching astable circuits
 
-Today I worked on using the template as a draft and experimenting with it.
+Today I worked on using the template as a draft and experimenting with it. Initially I wanted it to be monostable but I don't think a fixed duration would achieve that effect when I read through the Resolution Hardware Document. Through my research I learned about astable circuits and they can change brightnesses on there own as long as it is powered.
 
 ![image](image.png)
 
