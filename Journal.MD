@@ -8,7 +8,7 @@ Today I worked on using the template as a draft and experimenting with it. Initi
 
 ![image](image.png)
 
-Any issues I ran into here, and solved it using ...
+An issue I ran was something called max current, and solved it by adding another series of circult in parallel with a resistor to avoid the "path to ground with no resistance" problem.
 
 ### Time Spent: X Hours
 
