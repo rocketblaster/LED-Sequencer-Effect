@@ -8,7 +8,7 @@ Today I worked on using the template as a draft and experimenting with it. Initi
 
 ![image](image.png)
 
-Researching
+Any issues I ran into here, and solved it using ...
 
 ### Time Spent: X Hours
 
