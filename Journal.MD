@@ -1,21 +1,21 @@
-# Project Title\
+# LED sequencer effect
 
-Template
+This is a simple LED circuit using Transitor-Transistor-Logic circuit and through this it will make an LED go up one by one. I'm building X because of Y.
 
----
+## March 27, 2026 - [Heading]
 
-## Simulation
+Today I worked on...
 
+![image](image.png)
 
----
-## Schematic
+Researching
 
+### Time Spent: X Hours
 
+## Date - [Heading]
 
-## PCB
+How did I fix this issue?
 
+![image](image.png)
 
-
----
-
-Reserved
+### Time Spent: X Hours
