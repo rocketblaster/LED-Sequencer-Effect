@@ -12,7 +12,7 @@ The circuit works as an astable multivibrator, meaning after a specific duration
 
 ![Astable circuit](https://github.com/user-attachments/assets/da1b5b6c-ec57-4646-8b20-736ea92bea02)
 
-[![Link to Demo](https://is.gd/g0LkRQ)]
+Link to Demo https://is.gd/g0LkRQ
 
 ---
 ## Schematic
