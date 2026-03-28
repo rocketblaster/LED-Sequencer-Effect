@@ -6,7 +6,7 @@ This is a simple LED circuit using Transitor-Transistor-Logic circuit and throug
 
 Today I worked on using the template as a draft and experimenting with it. Initially I wanted it to be monostable but I don't think a fixed duration would achieve that effect when I read through the Resolution Hardware Document. Through my research I learned about astable circuits and they can change brightnesses on there own as long as it is powered. I found a schematic from ElecCircuit.com of astable circuit led sequence. I ended up successfullying replicating the schematic from the template.
 
-![image](image.png)
+<img width="647" height="391" alt="Screenshot 2026-03-27 at 4 21 24 PM" src="https://github.com/user-attachments/assets/38ebf0e8-29cf-46f5-90fa-ce50d8f46906" />
 
 An issue I ran was something called max current, and solved it by adding another series of circult in parallel with a resistor to avoid the "path to ground with no resistance" problem.
 
