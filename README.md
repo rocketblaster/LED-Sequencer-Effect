@@ -1,4 +1,4 @@
-# Project Title
+# LED Sequencer Effect
 
 This is an LED sequencer circuit made with 3x LEDs, transistors and resistors of different levels.
 
