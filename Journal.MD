@@ -67,6 +67,6 @@ While I researched a new astable circuit where two can be on at the same time wi
 I was thinking about what things would look cool with my current design, and I looked through my art gallery. I loved drawing dragons especially electric and fire dragons. So I was thinking of drawing a dragon breathing fire or charging electricity in its tail with LEDs there of course to show movement, as I was reminded of the pokemon legendaries Reshiram and Zekrom. Water based dragon creatures that have bioluminescent traits that glow on their body is cool too. I love airplanes and dragons. So I realized I could make a fighter jet design with the leds going on and off in a sequence for the jet engine! I think that's a great idea so I'll pursue one and this jet will be a single engine as I have three leds.
 
 I started to sketch out the image in procreate and recreate an outline in Figma.
-<img width="5354" height="2229" alt="image" src="https://github.com/user-attachments/assets/54c74dc6-96ff-45c0-9393-f515ed10d2a7" />
+<img width="5354" height="2229" alt="image" src="https://github.com/user-attachments/assets/3e7a63cf-b0be-4fed-bc89-6a9d26338357" />
 
 ### Time Spent: 1.5 Hours
