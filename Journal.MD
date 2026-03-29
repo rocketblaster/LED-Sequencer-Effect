@@ -74,4 +74,8 @@ I attempted to import my SVG vector from Figma, but it turned out huge! I decide
 
 <img width="1488" height="1040" alt="image" src="https://github.com/user-attachments/assets/a6d7aee0-9f0e-4e05-a786-ff2fde411538" />
 
+I honestly don't think layout will work on this PCB, so I'll redo my PCB so the airplanes on the front. Aircraft are very elongated which can make it hard to fit components onto them in this shape.
+
+<img width="1782" height="852" alt="image" src="https://github.com/user-attachments/assets/3fcb5ead-3c9b-45c8-8e6b-ffdff2c0ebc5" />
+
 ### Time Spent: 1.5 Hours
