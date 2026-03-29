@@ -56,3 +56,9 @@ Because the power and ground are important symbols, I have decided to rotate the
 Now that I'm done with the schematic I will start translating it over to PCB editor mode and I updated my schematic. I managed to update the schematic onto the PCB editor, but I want to create a personalized shape, and I wonder what sort of cool thing I can make with an LED chaser with my creativity. I dug through some of my interests, and I remembered airplanes in the sky often having alternating flashing lights on the side and the tails. I think I'll create an airplane PCB outline in Figma and trace it.
 
 ### Time Spent: 2 Hours
+
+## March 29, 2026 - Final iterations & moving un
+
+For an airplane PCB online, I'm too late in the process to change. Well I can change, but this is great notes for next time! Only two LEDs alternate rapidly while the other is just on its own. Since my LEDs go up one by one, why not make a traffic light signal?
+
+### Time Spent: X Hours
