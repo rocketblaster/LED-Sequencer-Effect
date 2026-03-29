@@ -53,4 +53,6 @@ Because the power and ground are important symbols, I have decided to rotate the
 
 <img width="1135" height="576" alt="Screenshot 2026-03-28 at 8 52 56 PM" src="https://github.com/user-attachments/assets/e8c70062-3503-47ea-bed8-44c86023a823" />
 
+Now that I'm done with the schematic I will start translating it over to PCB editor mode and I updated my schematic.
+
 ### Time Spent: X Hours
