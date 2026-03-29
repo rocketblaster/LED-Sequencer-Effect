@@ -52,4 +52,5 @@ Here is the VCC and GND in schematic editor. I believe they behave the exact sam
 Because the power and ground are important symbols, I have decided to rotate them so the voltage points up and the ground points down. I also added the values of my resistors and transitors with a voltage source connector. Though I'm not sure if it is supposed to be there by itself.
 
 <img width="1135" height="576" alt="Screenshot 2026-03-28 at 8 52 56 PM" src="https://github.com/user-attachments/assets/e8c70062-3503-47ea-bed8-44c86023a823" />
+
 ### Time Spent: X Hours
