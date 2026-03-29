@@ -78,4 +78,4 @@ I honestly don't think layout will work on this PCB, so I'll redo my PCB so the 
 
 <img width="1782" height="852" alt="image" src="https://github.com/user-attachments/assets/3fcb5ead-3c9b-45c8-8e6b-ffdff2c0ebc5" />
 
-### Time Spent: 1.5 Hours
+### Time Spent: 2 Hours
