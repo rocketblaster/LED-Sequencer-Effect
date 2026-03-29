@@ -61,7 +61,9 @@ Now that I'm done with the schematic I will start translating it over to PCB edi
 
 For an airplane PCB online, I'm too late in the process to change. Well I can change, but this is great notes for next time! Only two LEDs alternate rapidly while the other is just on its own. Since my LEDs go up one by one, why not make a traffic light signal?
 
-While I researched a new astable circuit where two can be on at the same time with one off, this was a painfully slow circuit. I ended up giving in to the simple one on the other off sequence instead. I changed the resistor values from 10k to 1k but nothing changed, though the capacitor from 47 to 10 did make the LED go out quicker and the others on. When I tested it out I had to wait a few seconds for the blinking to happen. The tutorial said 9v but I changed to 5v to slow the current down.
+While I researched a new astable circuit where two can be on at the same time with one off, this was a painfully slow circuit. I ended up giving in to the simple one on the other off sequence instead. I changed the resistor values from 10k to 1k but nothing changed, though the capacitor from 47 to 10 did make the LED go out quicker and the others on. When I tested it out I had to wait a few seconds for the blinking to happen. The tutorial said 9v but I changed to 5v to slow the current down. I don't think I'll use this and just go with the previous one as the final.
 <img width="1018" height="600" alt="Screenshot 2026-03-29 at 10 24 41 AM" src="https://github.com/user-attachments/assets/7ee50bc1-c055-4b76-95f4-e5530ae1c10c" />
+
+I was thinking about what things would look cool with my current design, and I looked through my art gallery. I loved drawing dragons especially electric and fire dragons. So I was thinking of drawing a dragon breathing fire or charging electricity in its tail with LEDs there of course to show movement, as I was reminded of the pokemon legendaries Reshiram and Zekrom. Water based dragon creatures that have bioluminescent traits that glow on their body is cool too.
 
 ### Time Spent: X Hours
