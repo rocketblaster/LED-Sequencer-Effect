@@ -25,4 +25,8 @@ The following components I used includes: 3x 1.5k resistor, 4x 1k resistor, 3x L
 
 <img width="1005" height="560" alt="Screenshot 2026-03-28 at 7 34 51 PM" src="https://github.com/user-attachments/assets/c069d912-5d36-43f1-81f3-bf8ccfc92a04" />
 
+I started to place the following components listed onto the schematic editor in KiCad. I noticed the ? and it indicates to write number next to it to make identifying the type of parts easier, especially if they are the same.
+
+<img width="830" height="404" alt="Screenshot 2026-03-28 at 7 48 49 PM" src="https://github.com/user-attachments/assets/3d7c6fa2-c591-4d81-befd-c796401cdfb4" />
+
 ### Time Spent: X Hours
