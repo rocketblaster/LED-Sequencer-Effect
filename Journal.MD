@@ -29,7 +29,7 @@ I started to place the following components listed onto the schematic editor in 
 
 <img width="830" height="404" alt="Screenshot 2026-03-28 at 7 48 49 PM" src="https://github.com/user-attachments/assets/3d7c6fa2-c591-4d81-befd-c796401cdfb4" />
 
-I also experienced a problem with the numbering for my resistors, especially since this is a weird parallel circuit I found online.
+I also experienced a problem with the numbering for my resistors, especially since this is a weird parallel circuit I found online. I designed it to be in chronological order of where the power comes form the voltage source instead and trying to keep it consistent with LED and transistors.
 
 (image)
 
