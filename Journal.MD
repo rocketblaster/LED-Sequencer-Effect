@@ -23,6 +23,6 @@ I ran into a problem where none of my LEDs were working so I did undo and revert
 For this I started to follow the tutorial located in the Resolution Hardware Week 2 document. Why did I design it this way? How did I build it? What happened when I tested it?
 The following components I used includes: 3x 1.5k resistor, 4x 1k resistor, 3x LEDs, 3x 20uf capacitor, 3x NPN transitors. I ran into a problem researching these materials, and what if they're aren't as common? I found out that it is totally fine to have different resistor values more than 1k and 20uf capacitor values. While adding my components into KiCad, I asked myself, do I need a switch? I have not been able to incorprate this in earlier but astable circuits they run on their own. Sometimes I would like to control my power source by cutting it off.
 
-![image](image.png)
+<img width="1005" height="560" alt="Screenshot 2026-03-28 at 7 34 51 PM" src="https://github.com/user-attachments/assets/c069d912-5d36-43f1-81f3-bf8ccfc92a04" />
 
 ### Time Spent: X Hours
