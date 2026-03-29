@@ -53,6 +53,6 @@ Because the power and ground are important symbols, I have decided to rotate the
 
 <img width="1135" height="576" alt="Screenshot 2026-03-28 at 8 52 56 PM" src="https://github.com/user-attachments/assets/e8c70062-3503-47ea-bed8-44c86023a823" />
 
-Now that I'm done with the schematic I will start translating it over to PCB editor mode and I updated my schematic. I managed to update the schematic onto the PCB editor, but I want to create a personalized shape, and I wonder what sort of cool thing I can make with an LED chaser with my creativity.
+Now that I'm done with the schematic I will start translating it over to PCB editor mode and I updated my schematic. I managed to update the schematic onto the PCB editor, but I want to create a personalized shape, and I wonder what sort of cool thing I can make with an LED chaser with my creativity. I dug through some of my interests, and I remembered airplanes in the sky often having alternating flashing lights on the side and the tails. I think I'll create an airplane PCB outline in Figma and trace it.
 
 ### Time Spent: 1.5 Hours
