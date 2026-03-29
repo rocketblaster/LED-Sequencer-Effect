@@ -41,4 +41,6 @@ I'm missing a voltage source, but the problem is... mine's two terminal! I decid
 
 <img width="360" height="277" alt="Screenshot 2026-03-28 at 8 28 24 PM" src="https://github.com/user-attachments/assets/ca255ad9-a421-4682-8c09-438387207bf3" /><img width="393" height="275" alt="Screenshot 2026-03-28 at 8 34 25 PM" src="https://github.com/user-attachments/assets/d6110350-fbd7-4a71-ad34-4b9e2f6ca0be" />
 
+Through a little bit of google search, VCC and GND are global. Voltage Source above usually is only for simulation and the battery indicates physical power. I want to use VCC and GND and I found out in the simulation that it stills work like normal as the two terminals previously.
+
 ### Time Spent: X Hours
