@@ -8,7 +8,9 @@ Today I worked on using the template as a draft and experimenting with it. Initi
 
 <img width="647" height="391" alt="Screenshot 2026-03-27 at 4 21 24 PM" src="https://github.com/user-attachments/assets/38ebf0e8-29cf-46f5-90fa-ce50d8f46906" />
 
-The reason why I designed it this way  was because there are transistors going to another capacitor, which stores energy. As the current flows, it goes to the transistor on the top left to the rest of the transitor and LED. I noticed they run parallel to each other. The way I built it was following a schematic I found online, and when I tested it the LEDs respectively turned on and off after a duration. An issue I ran was something called max current, and solved it by adding another series of circult in parallel with a resistor to avoid the "path to ground with no resistance" problem.
+The reason why I designed it this way was because there are transistors going to another capacitor, which stores energy. As the current flows, it goes to the transistor on the top left to the rest of the transitor and LED. I noticed they run parallel to each other. The way I built it was following a schematic I found online, and when I tested it the LEDs respectively turned on and off after a duration. I designed some of the resistor in between resistors to slow down some of the current as to make the LED turn off, since it runs on current for the brightness An issue I ran was something called max current, and solved it by adding another series of circult in parallel with a resistor to avoid the "path to ground with no resistance" problem.
+
+I ran into a problem where none of my LEDs were working so I did undo and reverted back to a state where it worked normally.
 
 ### Time Spent: 1.5 Hours
 
