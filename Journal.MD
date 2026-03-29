@@ -37,4 +37,6 @@ I started to sketch out my schematic referencing my diagram. As for the resistor
 
 <img width="1776" height="1128" alt="image" src="https://github.com/user-attachments/assets/d8e541d5-0156-42ad-9dc8-0ca7656089ff" />
 
+I'm missing a voltage source, but the problem is... mine's two terminal! I decided to research the two-terminal voltage source by looking it up.
+
 ### Time Spent: X Hours
