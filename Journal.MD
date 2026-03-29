@@ -49,7 +49,7 @@ Here is the VCC and GND in schematic editor. I believe they behave the exact sam
 
 <img width="850" height="525" alt="Screenshot 2026-03-28 at 8 42 19 PM" src="https://github.com/user-attachments/assets/bbbe41f9-ff18-4702-b967-3a4b9f40ad0d" />
 
-Because the power and ground are important symbols, I have decided to rotate them so the voltage points up and the ground points down. I also added the values of my resistors and transitors with a voltage source connector. Though I'm not sure if it is supposed to be there by itself. After setting the values up, I assigned my footprints following the document guide. It seems the footprints don't really want exact values but I can also try finding it in the library through a drop-down in KiCad
+Because the power and ground are important symbols, I have decided to rotate them so the voltage points up and the ground points down. I also added the values of my resistors and transitors with a voltage source connector. Though I'm not sure if it is supposed to be there by itself. After setting the values up, I assigned my footprints following the document guide. It seems the footprints don't really want exact values (eg. 1k ohm) and moreso of the measurements but I can also try finding it in the library through a drop-down in KiCad
 
 <img width="1135" height="576" alt="Screenshot 2026-03-28 at 8 52 56 PM" src="https://github.com/user-attachments/assets/e8c70062-3503-47ea-bed8-44c86023a823" />
 
