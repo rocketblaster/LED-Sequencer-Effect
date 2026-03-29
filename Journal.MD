@@ -69,6 +69,6 @@ I thought the traffic light was a little simple and not personal to me, so I was
 I started to sketch out the image in procreate and recreate an outline in Figma.
 <img width="5354" height="2229" alt="image" src="https://github.com/user-attachments/assets/3e7a63cf-b0be-4fed-bc89-6a9d26338357" />
 
-I attempted to import my SVG vector from Figma, but it turned out huge! I decided to search up how to solve this problem and I can't resize it in KiCad. Especially since it needs to be within 100mx100m
+I attempted to import my SVG vector from Figma, but it turned out huge! I decided to search up how to solve this problem and I can't resize it in KiCad. Especially since it needs to be within 100mx100m. Luckily I was able to resize it by converting pixels to MM using Figma and it fits within the constraint. Now I have another issue, do my components fit?
 
 ### Time Spent: 1.5 Hours
