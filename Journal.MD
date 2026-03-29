@@ -67,8 +67,11 @@ While I researched a new astable circuit where two can be on at the same time wi
 I thought the traffic light was a little simple and not personal to me, so I was thinking about what things would look cool with my current design, and I looked through my art gallery. I loved drawing dragons especially electric and fire dragons. So I was thinking of drawing a dragon breathing fire or charging electricity in its tail with LEDs there of course to show movement, as I was reminded of the pokemon legendaries Reshiram and Zekrom. Water based dragon creatures that have bioluminescent traits that glow on their body is cool too. I love airplanes and dragons. So I realized I could make a fighter jet design with the leds going on and off in a sequence for the jet engine! I think that's a great idea so I'll pursue one and this jet will be a single engine as I have three leds.
 
 I started to sketch out the image in procreate and recreate an outline in Figma.
+
 <img width="5354" height="2229" alt="image" src="https://github.com/user-attachments/assets/3e7a63cf-b0be-4fed-bc89-6a9d26338357" />
 
 I attempted to import my SVG vector from Figma, but it turned out huge! I decided to search up how to solve this problem and I can't resize it in KiCad. Especially since it needs to be within 100mx100m. Luckily I was able to resize it by converting pixels to MM using Figma and it fits within the constraint. Now I have another issue, do my components fit?
+
+<img width="1488" height="1040" alt="image" src="https://github.com/user-attachments/assets/a6d7aee0-9f0e-4e05-a786-ff2fde411538" />
 
 ### Time Spent: 1.5 Hours
