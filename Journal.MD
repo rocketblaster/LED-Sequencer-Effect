@@ -35,6 +35,6 @@ I also experienced a problem with the numbering for my resistors, especially sin
 
 I started to sketch out my schematic referencing my diagram. As for the resistor numbering, a schematic is usually read from left to right so I also based my order off of that.
 
-<img width="1039" height="655" alt="Screenshot 2026-03-28 at 8 15 42 PM" src="https://github.com/user-attachments/assets/58ef3447-5429-4a14-90c1-46fc45af4ed6" />
+<img width="1776" height="1128" alt="image" src="https://github.com/user-attachments/assets/d8e541d5-0156-42ad-9dc8-0ca7656089ff" />
 
 ### Time Spent: X Hours
