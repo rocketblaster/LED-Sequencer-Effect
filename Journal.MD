@@ -37,8 +37,8 @@ I started to sketch out my schematic referencing my diagram. As for the resistor
 
 <img width="1776" height="1128" alt="image" src="https://github.com/user-attachments/assets/d8e541d5-0156-42ad-9dc8-0ca7656089ff" />
 
-I'm missing a voltage source, but the problem is... mine's two terminal! I decided to research the two-terminal voltage source by looking it up. According to a few forum posts, I've notice this symbol below
+I'm missing a voltage source, but the problem is... mine's two terminal! I decided to research the two-terminal voltage source by looking it up. According to a few forum posts, I've notice this symbol below. Now I just need to check out what it looks like by reseaching the data sheet if it help.
 
-(image)
+<img width="360" height="277" alt="Screenshot 2026-03-28 at 8 28 24 PM" src="https://github.com/user-attachments/assets/ca255ad9-a421-4682-8c09-438387207bf3" />
 
 ### Time Spent: X Hours
