@@ -12,6 +12,8 @@ I saw no difference for when all the resistors were at a value of 1k, but I thin
 
 The reason why I designed it this way was because there are transistors going to another capacitor, which stores energy. As the current flows, it goes to the transistor on the top left to the rest of the transitor and LED. I noticed they run parallel to each other. The way I built it was following a schematic I found online, and when I tested it the LEDs respectively turned on and off after a duration. I designed some of the resistor values in between resistors to be higher in order to slow down some of the current as to make the LED turn off, since it runs on current for the brightness. An issue I ran was something called max current, and solved it by adding another series of circult in parallel with a resistor to avoid the "path to ground with no resistance" problem.
 
+![Astable circuit](https://github.com/user-attachments/assets/da1b5b6c-ec57-4646-8b20-736ea92bea02)
+
 I ran into a problem where none of my LEDs were working so I did undo and reverted back to a state where it worked normally.
 
 ### Time Spent: 1.5 Hours
