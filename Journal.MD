@@ -31,6 +31,6 @@ I started to place the following components listed onto the schematic editor in 
 
 I also experienced a problem with the numbering for my resistors, especially since this is a weird parallel circuit I found online. I designed it to be in chronological order of where the power comes form the voltage source instead and trying to keep it consistent with LED and transistors.
 
-(image)
+<img width="874" height="480" alt="Screenshot 2026-03-28 at 8 01 39 PM" src="https://github.com/user-attachments/assets/8396a37d-f340-42b8-a4b0-2d2b7c350c20" />
 
 ### Time Spent: X Hours
