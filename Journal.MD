@@ -82,6 +82,8 @@ I persisted and it seems to work! I just need to adjust my traces as usual. Foll
 
 <img width="1770" height="996" alt="image" src="https://github.com/user-attachments/assets/6399444b-4fe0-489a-8c6c-e8c89d4f4c26" /><img width="713" height="410" alt="Screenshot 2026-03-29 at 5 11 54 PM" src="https://github.com/user-attachments/assets/d0cd3c76-647f-4e98-84b8-66ead270c124" />
 
-I am going to route the wires but there are three pins on the transistor... this is NPN too so I'll research it.
+I am going to route the wires but there are three pins on the transistor... this is NPN too so I'll research it. I tried to route the traces but my components needed more adjusting as I was dealing with very long traces that wrapped around the pin. It ends up looking like this where the trace is underneath the resistor.
+
+<img width="724" height="756" alt="image" src="https://github.com/user-attachments/assets/c4377d05-9fde-4cd4-85e6-ea7e39a08217" />
 
 ### Time Spent: 3 Hours
