@@ -110,4 +110,8 @@ Now I test with Design Rules Checker and ran into a few problems. I'll fix it th
 
 <img width="2010" height="932" alt="image" src="https://github.com/user-attachments/assets/36734d8c-f1bd-4458-92bc-34d14a26f51a" />
 
+Okay because my line segment snaps to the board I couldn't do much about it. I also attempted to rotate the transistor Q2 on its side but the way I placed my components made it slightly hard due to the trace blocking another trace's path. I was able to adjust it though and when I tested it there was no overlapping.
+
+<img width="1938" height="864" alt="image" src="https://github.com/user-attachments/assets/0bb3449b-d898-4771-acbf-792ce4075eea" />
+
 ### Time Spent: 5 Hours
