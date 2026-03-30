@@ -57,7 +57,7 @@ Now that I'm done with the schematic I will start translating it over to PCB edi
 
 ### Time Spent: 2 Hours
 
-## March 29, 2026 - Final iterations & moving un
+## March 29, 2026 - Final iterations & moving on
 
 For an airplane PCB online, I'm too late in the process to change. Well I can change, but this is great notes for next time! Only two LEDs alternate rapidly while the other is just on its own. Since my LEDs go up one by one, why not make a traffic light signal?
 
@@ -82,4 +82,4 @@ I persisted and it seems to work! I just need to adjust my traces as usual. Foll
 
 <img width="1770" height="996" alt="image" src="https://github.com/user-attachments/assets/6399444b-4fe0-489a-8c6c-e8c89d4f4c26" /><img width="713" height="410" alt="Screenshot 2026-03-29 at 5 11 54 PM" src="https://github.com/user-attachments/assets/d0cd3c76-647f-4e98-84b8-66ead270c124" />
 
-### Time Spent: 2 Hours
+### Time Spent: 3 Hours
