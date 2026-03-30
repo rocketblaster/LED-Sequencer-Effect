@@ -118,4 +118,6 @@ I think these are my final products!
 
 <img width="1420" height="738" alt="image" src="https://github.com/user-attachments/assets/63eff19f-a41e-42a5-9c90-19bdd4ec214a" />
 
+I still don't how to use GitHub I've been pushing commits via manual labor on the web interface and indivudally placing files into folders so I searched up and realize I could just drag and drop.
+
 ### Time Spent: 6 Hours
