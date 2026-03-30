@@ -78,4 +78,8 @@ I honestly don't think layout will work on this PCB, so I'll redo my PCB so the 
 
 <img width="1782" height="852" alt="image" src="https://github.com/user-attachments/assets/3fcb5ead-3c9b-45c8-8e6b-ffdff2c0ebc5" />
 
+I persisted and it seems to work! I just need to adjust my traces as usual. Following the schematic, I aligned whatever resistors connected to the transistors be close to each other and the LEDs I'll figure out the tracers later.
+
+<img width="1770" height="996" alt="image" src="https://github.com/user-attachments/assets/6399444b-4fe0-489a-8c6c-e8c89d4f4c26" />
+
 ### Time Spent: 2 Hours
