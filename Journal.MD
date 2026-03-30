@@ -80,6 +80,6 @@ I honestly don't think layout will work on this PCB, so I'll redo my PCB so the 
 
 I persisted and it seems to work! I just need to adjust my traces as usual. Following the schematic, I aligned whatever resistors connected to the transistors be close to each other and the LEDs I'll figure out the tracers later.
 
-<img width="1770" height="996" alt="image" src="https://github.com/user-attachments/assets/6399444b-4fe0-489a-8c6c-e8c89d4f4c26" />
+<img width="1770" height="996" alt="image" src="https://github.com/user-attachments/assets/6399444b-4fe0-489a-8c6c-e8c89d4f4c26" /><img width="713" height="410" alt="Screenshot 2026-03-29 at 5 11 54 PM" src="https://github.com/user-attachments/assets/d0cd3c76-647f-4e98-84b8-66ead270c124" />
 
 ### Time Spent: 2 Hours
