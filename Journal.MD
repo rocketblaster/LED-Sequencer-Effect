@@ -98,4 +98,8 @@ I added silkscreen for the final touches. This should be fine to go over traces 
 
 <img width="1942" height="976" alt="image" src="https://github.com/user-attachments/assets/b03c5d05-90cc-4cd9-a420-03fd69b91f86" />
 
+Hidden the user drawing
+
+<img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/51b0b42a-dbe8-400e-87e8-ca78432b75d9" />
+
 ### Time Spent: 5 Hours
