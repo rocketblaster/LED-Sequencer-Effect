@@ -18,12 +18,13 @@ The circuit works as an astable multivibrator, meaning after a specific duration
 ---
 ## Schematic
 
-![Schematic Image](./path/to/schematic.png)
+<img width="1730" height="946" alt="image" src="https://github.com/user-attachments/assets/919c12be-5fc2-4148-aceb-cb86671ed266" />
+
 
 ## PCB
 
-![PCB Image](./path/to/PCB.png)
+<img width="1938" height="864" alt="image" src="https://github.com/user-attachments/assets/0bb3449b-d898-4771-acbf-792ce4075eea" />
 
 ---
 
-Extra
+This was super paintstaking to make but I pushed through anyways yay!
