@@ -1,8 +1,8 @@
 # LED Sequencer Effect
 
-This is an LED sequencer circuit made with 3x LEDs, transistors and resistors of different levels.
+This is an LED sequencer circuit shaped airplane with LEDs lighting up the fiery engines. Made with 3x LEDs, transistors and resistors of different levels.
 
-![3D PCB Image](./path/to/image.png)
+<img width="1420" height="738" alt="image" src="https://github.com/user-attachments/assets/63eff19f-a41e-42a5-9c90-19bdd4ec214a" />
 
 ---
 
