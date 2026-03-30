@@ -3,6 +3,7 @@
 This is an LED sequencer circuit shaped airplane with LEDs lighting up the fiery engines. Made with 3x LEDs, transistors and resistors of different levels.
 
 <img width="1420" height="738" alt="image" src="https://github.com/user-attachments/assets/63eff19f-a41e-42a5-9c90-19bdd4ec214a" />
+<img width="1486" height="728" alt="image" src="https://github.com/user-attachments/assets/61e7602f-e226-4b82-8332-35da4023d565" />
 
 ---
 
