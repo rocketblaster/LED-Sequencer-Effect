@@ -102,4 +102,9 @@ Hidden the user drawing
 
 <img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/51b0b42a-dbe8-400e-87e8-ca78432b75d9" />
 
+To make connection from voltage source easier, since there wasn't a symbol for + or - I added one.
+
+<img width="800" height="418" alt="image" src="https://github.com/user-attachments/assets/c9cf06e4-5648-4f7f-9800-81db31f62db7" />
+
+
 ### Time Spent: 5 Hours
