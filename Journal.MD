@@ -86,7 +86,7 @@ I am going to route the wires but there are three pins on the transistor... this
 
 <img width="724" height="756" alt="image" src="https://github.com/user-attachments/assets/c4377d05-9fde-4cd4-85e6-ea7e39a08217" />
 
-Having traces run under the resistor is fine. I basically rearranged when I needed to and follow the little blue lines I was told to connect to in the grey highlights. For ground I put them on the bottom layer since the top was already crowded.
+I ended up scrapping the former and restarted two times until I was happy with a final version because many of my components were far away. Having traces run under the resistor is fine. I basically rearranged when I needed to and follow the little blue lines I was told to connect to in the grey highlights. For ground I put them on the bottom layer since the top was already crowded.
 
 <img width="1592" height="916" alt="image" src="https://github.com/user-attachments/assets/61e21998-2cc7-490f-8be8-8c13f30192b5" />
 
