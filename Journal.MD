@@ -106,5 +106,8 @@ To make connection from voltage source easier, since there wasn't a symbol for +
 
 <img width="800" height="418" alt="image" src="https://github.com/user-attachments/assets/c9cf06e4-5648-4f7f-9800-81db31f62db7" />
 
+Now I test with Design Rules Checker and ran into a few problems. I'll fix it through adjustments, I wanted to design it this way but I couldn't make the line segment line up with the edge cuts layer.
+
+<img width="2010" height="932" alt="image" src="https://github.com/user-attachments/assets/36734d8c-f1bd-4458-92bc-34d14a26f51a" />
 
 ### Time Spent: 5 Hours
