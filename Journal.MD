@@ -87,9 +87,15 @@ I am going to route the wires but there are three pins on the transistor... this
 <img width="724" height="756" alt="image" src="https://github.com/user-attachments/assets/c4377d05-9fde-4cd4-85e6-ea7e39a08217" />
 
 Having traces run under the resistor is fine. I basically rearranged when I needed to and follow the little blue lines I was told to connect to in the grey highlights. For ground I put them on the bottom layer since the top was already crowded.
+
 <img width="1592" height="916" alt="image" src="https://github.com/user-attachments/assets/61e21998-2cc7-490f-8be8-8c13f30192b5" />
 
 Finally I have rearranged and finished my PCB, and now I want to add personal details. I didn't know some of the pins can have more than one trace coming out of it like the resistor since it connects both ways. I put some components sideways for more space and easier access so that's why.
+
 <img width="2072" height="1092" alt="image" src="https://github.com/user-attachments/assets/4d279252-7e8f-4e85-82f1-b83c2e0ab506" />
 
-### Time Spent: 4 Hours
+I added silkscreen for the final touches. This should be fine to go over traces because I've seen it before with my resistor.
+
+<img width="1942" height="976" alt="image" src="https://github.com/user-attachments/assets/b03c5d05-90cc-4cd9-a420-03fd69b91f86" />
+
+### Time Spent: 5 Hours
