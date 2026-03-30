@@ -114,4 +114,8 @@ Okay because my line segment snaps to the board I couldn't do much about it. I a
 
 <img width="1938" height="864" alt="image" src="https://github.com/user-attachments/assets/0bb3449b-d898-4771-acbf-792ce4075eea" />
 
+I think these are my final products!
+
+<img width="1420" height="738" alt="image" src="https://github.com/user-attachments/assets/63eff19f-a41e-42a5-9c90-19bdd4ec214a" />
+
 ### Time Spent: 5 Hours
