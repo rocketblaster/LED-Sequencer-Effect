@@ -86,4 +86,5 @@ I am going to route the wires but there are three pins on the transistor... this
 
 <img width="724" height="756" alt="image" src="https://github.com/user-attachments/assets/c4377d05-9fde-4cd4-85e6-ea7e39a08217" />
 
-### Time Spent: 3 Hours
+<img width="1592" height="916" alt="image" src="https://github.com/user-attachments/assets/61e21998-2cc7-490f-8be8-8c13f30192b5" />
+### Time Spent: 4 Hours
